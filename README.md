@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vivekhaldar-emacs-mcp-server-badge.png)](https://mseep.ai/app/vivekhaldar-emacs-mcp-server)
+
 # Emacs MCP Server
 
 Model Context Protocol (MCP) server for Emacs. Enables generating and running elisp code in a running Emacs process.

@@ -2,6 +2,10 @@
 
 Model Context Protocol (MCP) server for Emacs. Enables generating and running elisp code in a running Emacs process.
 
+<a href="https://glama.ai/mcp/servers/@vivekhaldar/emacs-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@vivekhaldar/emacs-mcp-server/badge" alt="Emacs Server MCP server" />
+</a>
+
 ## Tools
 
 The server exposes two tools:
